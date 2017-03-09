@@ -1,5 +1,6 @@
 # BlankOn Mascot
-- ### Deskripsi  
+
+- ### Deskripsi
 
 Sejak pertama kali mendengar kata "[__BlankOn__](https://www.blankonlinux.or.id/)", yang terlintas di pikiran saya adalah topi / penutup kepala khas etnis Jawa. Dari situlah awal tercipta ide dari desain maskot yang saya buat. Selain itu, blangkon merupakan bagian dari budaya asli Indonesia, menjadi salah satu identitas yang unik. Untuk itu,saya menggunakan objek blangkon sebagai ciri khas maskot ini.
 
