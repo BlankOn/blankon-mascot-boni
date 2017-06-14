@@ -11,7 +11,7 @@ Maskot ini saya beri nama "__BONI__" yang merupakan singkatan dari "__BlankON In
 
 ### Variasi Pose
 ![Boni](https://raw.githubusercontent.com/BlankOn/blankon-mascot/master/VariasiPoseMaskotBlankOn.png)
-![Boni](https://raw.githubusercontent.com/BlankOn/blankon-mascot/master/DetailMaskotBlankOnHerbanu2.png)
+![Boni](https://raw.githubusercontent.com/BlankOn/blankon-mascot/master/DetailMaskotBlankOnHerbanu2.Png)
 
 ### Lisensi  
 
