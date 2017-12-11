@@ -17,4 +17,10 @@ Sumber : https://indoinkscaper.wordpress.com/2016/11/30/maskot-blankon-linux-ind
 
 ### Lisensi  
 
-Lisensi untuk Mascot BlankOn menggunakan [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+Lisensi untuk Mascot BlankOn menggunakan [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan modifikasi dengan syarat :
+
+- Tidak untuk kepentingan komersial
+- Mencantumkan atribusi ke pembuat/pemilik asli (Herbanu Tri Sasongko dan komunitas BlankOn)
+- Menyertakan lisensi yang sama dengan yang asli, yaitu CC BY-NC-SA
+
+Bilamana penggandaan dan modifikasi perlu keluar dari syarat-syarat di atas, pihak terkait wajib mengajukan permohonan izin ke komunitas BlankOn
